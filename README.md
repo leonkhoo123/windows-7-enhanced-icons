@@ -70,10 +70,20 @@ backlight-brightness status icon (`input-keyboard-brightness`, from
 `step_object_Pin` aliases, from `pin.ico`). The network-share icon shown for
 SMB/NAS mounts in the Dolphin Places panel was then replaced with the supplied
 Windows 7 network-drive artwork: `network-server` (plus the
-`network-server-symbolic` alias, from `network_drive.ico`). The originals that
+`network-server-symbolic` alias, from `network_drive.ico`). The busy/loading
+spinner was then switched from the original spinning gear to the Windows 7
+**wait cursor**: `process-working` (the spinner used by Kirigami/KDE apps,
+which only rotates a static icon rather than playing a frame animation) and its
+`process-working-symbolic` and `busywidget` aliases now use the Aero wait-cursor
+ring redrawn from the Xcursor source in
+`reference_resources/Win7_icon_tidy/wait` instead of a gear. The ring body is
+kept rotationally symmetric so that spinning it reads like the real cursor (the
+white highlight orbits, the body does not turn). The original gear is in
+`_backup/animations/`. The originals that
 were swapped out are kept in `_backup/` (these batches under
 `_backup/system-tray-symbolic/`, `_backup/input-keyboard/`,
-`_backup/keyboard-backlight/`, `_backup/pin/` and `_backup/network-server/`).
+`_backup/keyboard-backlight/`, `_backup/pin/`, `_backup/network-server/` and
+`_backup/animations/`).
 See **Credits** below.
 
 The theme also contains **third-party artwork** that keeps its own copyright,
