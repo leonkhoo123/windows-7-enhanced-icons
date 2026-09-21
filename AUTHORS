@@ -6,9 +6,13 @@
  Enhanced by : Leon Khoo
  Based on    : "Plasma SVG Win7 Theme" by Blackcrack / Blackysgate.de
 
- The original theme and its artwork remain the work of the original
- author. This enhanced edition keeps the original authorship and license
- intact and adds touched-up metadata and a user-level install script.
+ The original theme is the work of the original author. This enhanced
+ edition is based on it but REPLACES a number of icons with newly drawn
+ artwork (for example the archive/compressed-file mimetypes and the
+ org.kde.dolphin and user-desktop icons); those replacements are the work
+ of Leon Khoo, while the remaining icons keep the original author's
+ copyright. The replaced originals are kept in _backup/. The edition also
+ adds touched-up metadata and a user-level install script.
 
  Third-party artwork inside the icon theme keeps its own copyright, e.g.
  weather applet icons from deviantart.com/jackseller and various vendor /

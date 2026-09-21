@@ -31,6 +31,12 @@ extras/  tools/         helper files and the SVG build script
 **CC BY-NC-SA 4.0** (Attribution-NonCommercial-ShareAlike) — see `COPYING`.
 Non-commercial: you may share and adapt with credit, but not sell it.
 
+**Changes in this edition:** not all icons are the original author's work.
+This edition **replaces a number of icons with newly drawn artwork** (for
+example the archive/compressed-file mimetypes and the `org.kde.dolphin` and
+`user-desktop` icons). The originals that were swapped out are kept in
+`_backup/`. See **Credits** below.
+
 The theme also contains **third-party artwork** that keeps its own copyright,
 e.g. weather applet icons from `deviantart.com/jackseller` and various
 vendor/application logos. See `docs/` and `AUTHORS`.
@@ -38,8 +44,10 @@ vendor/application logos. See `docs/` and `AUTHORS`.
 ## Credits
 
 * Original work: *Plasma SVG Win7 Theme* by **Blackcrack (Blacky)** —
-  [Blackysgate.de](https://www.blackysgate.de). The original theme and its
-  artwork remain the work of the original author.
-* Windows 7 Enhanced edition — **Leon Khoo**, based on the original by
-  Blackcrack. This edition keeps the original authorship and license intact
-  and adds touched-up metadata and a user-level install script.
+  [Blackysgate.de](https://www.blackysgate.de). Most icons remain the original
+  author's work.
+* Windows 7 Enhanced edition — **Leon Khoo**. Based on the original by
+  Blackcrack; this edition **replaces some of the original icons with newly
+  drawn ones**, adds touched-up metadata, and includes a user-level install
+  script. The replaced icons are © Leon Khoo; the rest keep the original
+  author's copyright.
