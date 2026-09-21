@@ -46,10 +46,12 @@ mimetypes, the installer/package mimetypes (`application-x-apple-diskimage`,
 e.g. `notification`, `notifications`, `preferences-desktop-notification-bell`
 and the notification states, plus `dialog-error`) and the KDE Connect family
 (`kdeconnect`, `preferences-kde-connect` and the `kdeconnect-tray` /
-`-symbolic` variants, replaced with the supplied KDE Connect artwork) and the
+`-symbolic` variants, replaced with the supplied KDE Connect artwork), the
 Disks & Devices tray icon (`device-notifier`, switched to the removable-media
-USB artwork, also installed as `media-removable`). The originals that were
-swapped out are kept in `_backup/`. See **Credits** below.
+USB artwork, also installed as `media-removable`), the firewall icons
+(`firewall`, `firewall-config`, `preferences-security-firewall`) and the
+Clipboard tray icon (`klipper-symbolic`). The originals that were swapped out
+are kept in `_backup/`. See **Credits** below.
 
 The theme also contains **third-party artwork** that keeps its own copyright,
 e.g. weather applet icons from `deviantart.com/jackseller` and various
