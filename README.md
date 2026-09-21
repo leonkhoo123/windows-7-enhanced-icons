@@ -32,10 +32,14 @@ extras/  tools/         helper files and the SVG build script
 Non-commercial: you may share and adapt with credit, but not sell it.
 
 **Changes in this edition:** not all icons are the original author's work.
-This edition **replaces a number of icons with newly drawn artwork** (for
-example the archive/compressed-file mimetypes and the `org.kde.dolphin` and
-`user-desktop` icons). The originals that were swapped out are kept in
-`_backup/`. See **Credits** below.
+This edition **replaces a number of the original icons** — some with newly
+drawn artwork and some with hand-picked Windows 7 artwork converted from
+`.ico` sources. This covers, for example, the archive/compressed-file
+mimetypes, the standard user folders (`user-home`/`folder-home`,
+`user-desktop`, `folder-documents`, `folder-download(s)`, `folder-music`,
+`folder-pictures`, `folder-videos`, `folder-games`) and the file-manager
+icons (`org.kde.dolphin`, `system-file-manager`). The originals that were
+swapped out are kept in `_backup/`. See **Credits** below.
 
 The theme also contains **third-party artwork** that keeps its own copyright,
 e.g. weather applet icons from `deviantart.com/jackseller` and various
