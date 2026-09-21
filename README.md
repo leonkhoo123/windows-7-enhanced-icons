@@ -67,10 +67,14 @@ were then refreshed with hand-picked Windows 7 art: the on-screen keyboard
 `system-config-keyboard` aliases, from `input_method.ico`), the keyboard
 backlight-brightness status icon (`input-keyboard-brightness`, from
 `keyboard_backlit.ico`) and the push-pin (`window-pin`, plus the `pin` and
-`step_object_Pin` aliases, from `pin.ico`). The originals that were
-swapped out are kept in `_backup/` (these batches under
+`step_object_Pin` aliases, from `pin.ico`). The network-share icon shown for
+SMB/NAS mounts in the Dolphin Places panel was then replaced with the supplied
+Windows 7 network-drive artwork: `network-server` (plus the
+`network-server-symbolic` alias, from `network_drive.ico`). The originals that
+were swapped out are kept in `_backup/` (these batches under
 `_backup/system-tray-symbolic/`, `_backup/input-keyboard/`,
-`_backup/keyboard-backlight/` and `_backup/pin/`). See **Credits** below.
+`_backup/keyboard-backlight/`, `_backup/pin/` and `_backup/network-server/`).
+See **Credits** below.
 
 The theme also contains **third-party artwork** that keeps its own copyright,
 e.g. weather applet icons from `deviantart.com/jackseller` and various
