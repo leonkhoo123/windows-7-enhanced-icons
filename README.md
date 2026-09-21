@@ -42,10 +42,13 @@ mimetypes, the installer/package mimetypes (`application-x-apple-diskimage`,
 (`user-home`/`folder-home`, `user-desktop`, `folder-documents`,
 `folder-download(s)`, `folder-music`, `folder-pictures`, `folder-videos`,
 `folder-games`), the file-manager icons (`org.kde.dolphin`,
-`system-file-manager`) and the notification/status icons (the bell family,
+`system-file-manager`), the notification/status icons (the bell family,
 e.g. `notification`, `notifications`, `preferences-desktop-notification-bell`
-and the notification states, plus `dialog-error`). The originals that were
-swapped out are kept in `_backup/`. See **Credits** below.
+and the notification states, plus `dialog-error`) and the KDE Connect family
+(`kdeconnect`, `preferences-kde-connect` and the `kdeconnect-tray` /
+`-symbolic` variants, replaced with the supplied KDE Connect artwork). The
+originals that were swapped out are kept in `_backup/`. See **Credits**
+below.
 
 The theme also contains **third-party artwork** that keeps its own copyright,
 e.g. weather applet icons from `deviantart.com/jackseller` and various
