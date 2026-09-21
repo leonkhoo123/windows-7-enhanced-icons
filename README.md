@@ -62,8 +62,9 @@ offline/error/no-route/idle/receive states), the battery levels
 (`battery-NNN` and `battery-NNN-charging` `-symbolic`, where the 10% steps
 that have no source artwork are snapped up to the next level and `010` reuses
 the `000` art), the BlueDevil Bluetooth tray family (`network-bluetooth*` and
-`preferences-system-bluetooth*`, the inactive state greyed out and the locked
-state given a padlock badge). Power-profile variants of every battery level are
+`preferences-system-bluetooth*`, redrawn as vector from the supplied HD
+Bluetooth artwork, with the inactive state greyed out and the locked state
+given a padlock badge). Power-profile variants of every battery level are
 also added under both the `-symbolic` and plain names
 (`battery-NNN[-charging]-profile-{powersave,performance,balanced}`), with the
 `powersave` profile drawn in yellow and `performance`/`balanced` left as the
