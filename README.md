@@ -79,11 +79,18 @@ ring redrawn from the Xcursor source in
 `reference_resources/Win7_icon_tidy/wait` instead of a gear. The ring body is
 kept rotationally symmetric so that spinning it reads like the real cursor (the
 white highlight orbits, the body does not turn). The original gear is in
-`_backup/animations/`. The originals that
+`_backup/animations/`. Dolphin's folder context menu hardcodes the generic
+`list-add` icon for its "Create New" entry, whereas the desktop (and Dolphin's
+own empty-area menu) get `document-new` from KDE's `KNewFileMenu`; `list-add`
+was therefore re-pointed at the `document-new` artwork so the two look the same.
+As with the theme's other replacements this is a global name mapping, so the
+other `list-add` users (e.g. Plasma's **Add Panel** button and Kirigami's add
+buttons) pick up the same artwork. The original plus icon is in
+`_backup/right-click-menu/`. The originals that
 were swapped out are kept in `_backup/` (these batches under
 `_backup/system-tray-symbolic/`, `_backup/input-keyboard/`,
-`_backup/keyboard-backlight/`, `_backup/pin/`, `_backup/network-server/` and
-`_backup/animations/`).
+`_backup/keyboard-backlight/`, `_backup/pin/`, `_backup/network-server/`,
+`_backup/animations/` and `_backup/right-click-menu/`).
 See **Credits** below.
 
 The theme also contains **third-party artwork** that keeps its own copyright,
