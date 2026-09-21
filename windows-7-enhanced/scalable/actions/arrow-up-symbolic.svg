@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Windows 7 style system tray expander arrow (collapsed / "show hidden icons") -->
+<svg
+   width="256mm"
+   height="256mm"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="arrow-up-symbolic"
+   xmlns="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="win7ArrowBody"
+       x1="128"
+       y1="78"
+       x2="128"
+       y2="178"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#6e6e6e;stop-opacity:1;"
+         id="stop1" />
+      <stop
+         offset="1"
+         style="stop-color:#454545;stop-opacity:1;"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <path
+     id="arrow-up"
+     d="M 58,178 198,178 Q 220,178 205.12,161.82 L 142.88,94.18 Q 128,78 113.12,94.18 L 50.88,161.82 Q 36,178 58,178 Z"
+     style="fill:url(#win7ArrowBody);fill-rule:evenodd;stroke:none" />
+</svg>

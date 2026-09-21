@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Windows 7 style system tray expander arrow (panel on the right edge) -->
+<svg
+   width="256mm"
+   height="256mm"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="arrow-left-symbolic"
+   xmlns="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="win7ArrowBody"
+       x1="128"
+       y1="36"
+       x2="128"
+       y2="220"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#6e6e6e;stop-opacity:1;"
+         id="stop1" />
+      <stop
+         offset="1"
+         style="stop-color:#454545;stop-opacity:1;"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <path
+     id="arrow-left"
+     d="M 178,198 178,58 Q 178,36 161.82,50.88 L 94.18,113.12 Q 78,128 94.18,142.88 L 161.82,205.12 Q 178,220 178,198 Z"
+     style="fill:url(#win7ArrowBody);fill-rule:evenodd;stroke:none" />
+</svg>
