@@ -1,1 +1,4 @@
-./battery-010.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <image width="20" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABj0lEQVR4nNWUvUtCYRTGn+tHlplFQ0FRgflRDg0OElFB0dBQtDVccb39A0Ftlzu0RbvN3aEMzIZoCIUgbAgUpCCuU1BWUnkLMr/et0m5pV3TFnu29zzv+XE4cB6g2cWomTzP+yRJKr9tNhsEQVipG6gEiaLIleoej2f7t+AvMJZlfVRFLMv6eJ73VevXfS9IkgRRFLnSNNWk5lcAlbJarRW1RCKh1gKNqtuAmgMoJ8Pg5kNcZHeIHgc2qNJT3eFPuomuwT3ngM6gx8XJzt8mHLdfcy8pCXdPGsQlgnwmidC+tzxlXUBKCMYst5hYdCFweI/V9Tgml1xoK542NuFob4RjyAd03WZQUgAtEmg6jchlZIT8LEWtHQqCUD47SgliwREMOIZB0q/oMmnR16MHSb/B6bYgET9DTaDyGqZGLjnnYApGRg/yIGNhxohZlwnkOYV2rRa5jIywf5lWhEMpGJShAADRAzss/VkYmCxaWwi2gh04jzxib9OMXFaD9zyD2FWhdtqU5J0+4qr9/X/6BHM6ufec6vVZAAAAAElFTkSuQmCC" />
+</svg>

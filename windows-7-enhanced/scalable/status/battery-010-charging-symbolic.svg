@@ -1,1 +1,4 @@
-battery-010-charging.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <image width="20" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABcElEQVR4nM2UsY6CQBCG/7tcLIgFnQkxkcLttKf0GQjNDYmtNZ1WBFofwdpdOn0AKls7WkJhIYlReQWucQneIsHOv4IZ+HZm/8wAn66vtqTv+zxNUyXOGAMApGkKxhiCIKDWU3zf50TEiYiXNU2nU16WZTmbzaocEfH6vz+vqtput7//c7quAwDu9/vLYhSghLmuK2Qsz/MniK7rT+9ExGXrCrCu8XgMADifz0iSpKr4cDhUz7ITWUArUMowDJimKebzeWN+v9/Dtu3mlpvEGEOe5wjDULlXAMiyTEinv7sA31FnYK/Xw+VyUeK32w2apr0PNAwD6/VaXK/XKlYUBTabjZDmoesdAsBoNMLpdMJkMhGLxQJ4mEFEWC6X1aR0BkroYDCozMmyTKxWq6exawUGQaC4utvtRPPXHYD1aekqBcgYg+u6ommWASCKInE8HkW/38dwOFTyjevr1drCYzFYlgXHcRDHMTzPa19dH6c/Gaqi/qHvIyEAAAAASUVORK5CYII=" />
+</svg>

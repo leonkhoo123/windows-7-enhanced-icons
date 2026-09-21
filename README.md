@@ -53,8 +53,19 @@ USB artwork, also installed as `media-removable`), the firewall icons
 Clipboard tray icon (`klipper-symbolic`), the Configure action
 (`configure`, used by the System Tray's "Configure System Tray..." entry) and
 the right-click "Open With" action (`system-run`) and the opened-folder icon
-(`folder-open`). The originals that were swapped out are kept in `_backup/`.
-See **Credits** below.
+(`folder-open`). The System Tray symbolic icons were also refreshed with
+supplied Windows 7 artwork: the audio set
+(`audio-volume-{high,medium,low,muted}-symbolic`), the network/Wi-Fi/LAN set
+(the `network-*-symbolic` family, including the wireless signal-strength bars
+and the offline/error/no-route/idle/receive states), the battery levels
+(`battery-NNN` and `battery-NNN-charging` `-symbolic`, where the 10% steps
+that have no source artwork are snapped up to the next level and `010` reuses
+the `000` art), the BlueDevil Bluetooth tray family (`network-bluetooth*` and
+`preferences-system-bluetooth*`, the inactive state greyed out and the locked
+state given a padlock badge). New power-saving variants of the battery levels
+(`battery-NNN[-charging]-profile-powersave-symbolic`) are also added, drawn in
+yellow. The originals that were swapped out are kept in `_backup/` (this batch
+under `_backup/system-tray-symbolic/`). See **Credits** below.
 
 The theme also contains **third-party artwork** that keeps its own copyright,
 e.g. weather applet icons from `deviantart.com/jackseller` and various
