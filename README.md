@@ -61,9 +61,16 @@ the wireless signal-strength bars and the
 offline/error/no-route/idle/receive states) and the BlueDevil Bluetooth tray
 family (`network-bluetooth*` and `preferences-system-bluetooth*`, redrawn as
 vector from the supplied HD Bluetooth artwork, with the inactive state greyed
-out and the locked state given a padlock badge). The originals that were
-swapped out are kept in `_backup/` (this batch under
-`_backup/system-tray-symbolic/`). See **Credits** below.
+out and the locked state given a padlock badge). The keyboard and pin icons
+were then refreshed with hand-picked Windows 7 art: the on-screen keyboard
+(`input-keyboard`, plus the `input-keyboard-symbolic` and
+`system-config-keyboard` aliases, from `input_method.ico`), the keyboard
+backlight-brightness status icon (`input-keyboard-brightness`, from
+`keyboard_backlit.ico`) and the push-pin (`window-pin`, plus the `pin` and
+`step_object_Pin` aliases, from `pin.ico`). The originals that were
+swapped out are kept in `_backup/` (these batches under
+`_backup/system-tray-symbolic/`, `_backup/input-keyboard/`,
+`_backup/keyboard-backlight/` and `_backup/pin/`). See **Credits** below.
 
 The theme also contains **third-party artwork** that keeps its own copyright,
 e.g. weather applet icons from `deviantart.com/jackseller` and various
