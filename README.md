@@ -52,8 +52,9 @@ USB artwork, also installed as `media-removable`), the firewall icons
 (`firewall`, `firewall-config`, `preferences-security-firewall`), the
 Clipboard tray icon (`klipper-symbolic`), the Configure action
 (`configure`, used by the System Tray's "Configure System Tray..." entry) and
-the right-click "Open With" action (`system-run`). The originals that were
-swapped out are kept in `_backup/`. See **Credits** below.
+the right-click "Open With" action (`system-run`) and the opened-folder icon
+(`folder-open`). The originals that were swapped out are kept in `_backup/`.
+See **Credits** below.
 
 The theme also contains **third-party artwork** that keeps its own copyright,
 e.g. weather applet icons from `deviantart.com/jackseller` and various
