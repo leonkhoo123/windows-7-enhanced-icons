@@ -58,18 +58,12 @@ supplied Windows 7 artwork: the audio set
 (`audio-volume-{high,medium,low,muted}-symbolic`), the network/Wi-Fi/LAN set
 (the `network-*` family under both the `-symbolic` and plain names, including
 the wireless signal-strength bars and the
-offline/error/no-route/idle/receive states), the battery levels
-(`battery-NNN` and `battery-NNN-charging` `-symbolic`, where the 10% steps
-that have no source artwork are snapped up to the next level and `010` reuses
-the `000` art), the BlueDevil Bluetooth tray family (`network-bluetooth*` and
-`preferences-system-bluetooth*`, redrawn as vector from the supplied HD
-Bluetooth artwork, with the inactive state greyed out and the locked state
-given a padlock badge). Power-profile variants of every battery level are
-also added under both the `-symbolic` and plain names
-(`battery-NNN[-charging]-profile-{powersave,performance,balanced}`), with the
-`powersave` profile drawn in yellow and `performance`/`balanced` left as the
-normal charge icon. The originals that were swapped out are kept in `_backup/`
-(this batch under `_backup/system-tray-symbolic/`). See **Credits** below.
+offline/error/no-route/idle/receive states) and the BlueDevil Bluetooth tray
+family (`network-bluetooth*` and `preferences-system-bluetooth*`, redrawn as
+vector from the supplied HD Bluetooth artwork, with the inactive state greyed
+out and the locked state given a padlock badge). The originals that were
+swapped out are kept in `_backup/` (this batch under
+`_backup/system-tray-symbolic/`). See **Credits** below.
 
 The theme also contains **third-party artwork** that keeps its own copyright,
 e.g. weather applet icons from `deviantart.com/jackseller` and various
