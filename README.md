@@ -35,10 +35,14 @@ Non-commercial: you may share and adapt with credit, but not sell it.
 This edition **replaces a number of the original icons** — some with newly
 drawn artwork and some with hand-picked Windows 7 artwork converted from
 `.ico` sources. This covers, for example, the archive/compressed-file
-mimetypes, the standard user folders (`user-home`/`folder-home`,
-`user-desktop`, `folder-documents`, `folder-download(s)`, `folder-music`,
-`folder-pictures`, `folder-videos`, `folder-games`) and the file-manager
-icons (`org.kde.dolphin`, `system-file-manager`). The originals that were
+mimetypes, the installer/package mimetypes (`application-x-apple-diskimage`,
+`application-vnd.debian.binary-package`, `application-x-rpm`,
+`application-x-msi`, `application-vnd.android.package-archive`,
+`application-x-xpinstall`, `package-x-generic`), the standard user folders
+(`user-home`/`folder-home`, `user-desktop`, `folder-documents`,
+`folder-download(s)`, `folder-music`, `folder-pictures`, `folder-videos`,
+`folder-games`) and the file-manager icons (`org.kde.dolphin`,
+`system-file-manager`). The originals that were
 swapped out are kept in `_backup/`. See **Credits** below.
 
 The theme also contains **third-party artwork** that keeps its own copyright,
