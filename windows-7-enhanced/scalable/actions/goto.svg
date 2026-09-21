@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256mm"
+   height="256mm"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="goto.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0948583"
+     inkscape:cx="488.19103"
+     inkscape:cy="629.76186"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient5"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#5b5b5b;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="radialGradient6"
+       cx="39.192028"
+       cy="49.568798"
+       fx="39.192028"
+       fy="49.568798"
+       r="53.344412"
+       gradientTransform="matrix(0.85590156,-1.680983,0.9154157,0.47566285,-7.8798682,175.63631)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="radialGradient7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.1184483,-0.32714113,-0.78243912,1.9930517,190.27219,210.81285)"
+       cx="43.175674"
+       cy="19.811132"
+       fx="43.175674"
+       fy="19.811132"
+       r="53.344412" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.1749999,0.52916667)">
+    <path
+       id="path4"
+       style="fill:url(#radialGradient6);fill-rule:evenodd;stroke:#0a0a0a;stroke-width:4.60696;stroke-linecap:round;stroke-miterlimit:1.8;stroke-dasharray:none;stroke-dashoffset:20.7632"
+       d="M 141.9884,5.9501265 C 125.23971,-5.2233675 87.470249,14.46075 64.781898,54.987361 55.278677,71.962298 62.252931,63.618328 49.755101,90.608583 L 96.535788,123.10994 C 116.61664,99.838098 111.22816,109.26916 125.03611,96.289939 l 0.51553,-0.761193 C 151.38536,57.189957 158.73709,17.123619 141.9884,5.9501265 Z M 43.576608,103.54425 c -1.00926,2.06336 -2.012268,4.11585 -3.174316,6.452 -7.352985,14.78223 -0.783742,29.14635 7.519516,34.83804 8.303289,5.69165 24.445437,7.03301 35.028416,-5.67299 1.724726,-2.0707 2.867808,-3.39938 4.389821,-5.21195 z" />
+    <path
+       id="path6"
+       style="fill:url(#radialGradient7);fill-rule:evenodd;stroke:#0a0a0a;stroke-width:4.55897;stroke-linecap:round;stroke-miterlimit:1.8;stroke-dasharray:none;stroke-dashoffset:20.7632"
+       d="m 189.7716,107.81928 c 15.57737,12.40224 10.66789,55.74929 -17.88589,91.62328 -11.95999,15.02615 -6.85245,5.4083 -26.74391,26.7684 l -44.66217,-34.19775 c 14.03452,-27.43454 7.42607,-18.98095 14.3798,-36.8096 l 0.50635,-0.76041 c 25.54857,-38.17248 58.82848,-59.026187 74.40582,-46.62392 z m -54.10001,128.81173 c -1.50264,1.68508 -2.99769,3.36044 -4.69249,5.28708 -10.72415,12.191 -25.7383,10.74686 -33.596776,4.65058 -7.858449,-6.09635 -14.461624,-21.27989 -6.671479,-35.88965 1.26957,-2.38096 2.071978,-3.94399 3.17917,-6.04006 z" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
