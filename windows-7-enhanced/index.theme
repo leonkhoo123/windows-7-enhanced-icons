@@ -4,7 +4,7 @@
   Metatheme=true
   GraphicalEffects=true
   DisplayDepth=32
-  Inherits=synbolic-bullschit,hicolor
+  Inherits=hicolor
   Example=folder
   DesktopDefault=32
   DesktopSizes=8,12,16,22,24,32,48,64,96,128,256,512

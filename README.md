@@ -31,6 +31,11 @@ extras/  tools/         helper files and the SVG build script
 **CC BY-NC-SA 4.0** (Attribution-NonCommercial-ShareAlike) — see `COPYING`.
 Non-commercial: you may share and adapt with credit, but not sell it.
 
+**Exception:** the Breeze-derived session/power action icons listed under
+[Session/power actions use KDE's icons](#sessionpower-actions-use-kdes-icons)
+are © the KDE contributors and licensed **LGPL-3.0-or-later** — see
+`LICENSES/LGPL-3.0-or-later.txt`. Everything else remains CC BY-NC-SA 4.0.
+
 **Changes in this edition:** not all icons are the original author's work.
 This edition **replaces a number of the original icons** — some with newly
 drawn artwork and some with hand-picked Windows 7 artwork converted from
@@ -92,6 +97,30 @@ were swapped out are kept in `_backup/` (these batches under
 `_backup/keyboard-backlight/`, `_backup/pin/`, `_backup/network-server/`,
 `_backup/animations/` and `_backup/right-click-menu/`).
 See **Credits** below.
+
+### Session/power actions use KDE's icons
+
+The **Sleep, Hibernate, Restart, Shut Down, Lock, Log Out**, **Save Session**
+and **Switch User** actions use KDE's own **Breeze** icons instead of the
+glossy Windows 7 artwork. Only those action icons were replaced — the
+application, folder, mimetype, status and all other Windows 7 artwork is
+unchanged.
+
+Replaced names: `system-suspend`, `system-hibernate`,
+`system-suspend-hibernate`, `system-reboot`, `system-shutdown`,
+`system-log-out`, `system-lock-screen`, `system-switch-user`,
+`system-save-session` and `system-user-prompt`, plus their `-symbolic`,
+`-update`, `-rtl` and XFCE `xfsm-*`/`exit` aliases. The replacement files are
+copies of the light **Breeze Dark** SVG icons (so they stay visible on the dark
+Aero menus), © the KDE contributors, licensed **LGPL-3.0-or-later** (see
+`LICENSES/LGPL-3.0-or-later.txt`); the rest of the theme remains CC BY-NC-SA
+4.0.
+
+`index.theme` now inherits from `hicolor` only. It previously listed
+`synbolic-bullschit`, a misspelled, non-existent theme, which made every KDE
+app log `Icon theme "synbolic-bullschit" not found`. The original glossy
+session artwork is kept in `_backup/session-actions/` (local build folder, not
+part of the package).
 
 The theme also contains **third-party artwork** that keeps its own copyright,
 e.g. weather applet icons from `deviantart.com/jackseller` and various
